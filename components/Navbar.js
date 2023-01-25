@@ -9,7 +9,7 @@ export default function Navbar() {
             <div class="container ">
               <a class="navbar-brand logo_h" href="index.html">
                 {/* <img src="img/logo.png" alt="Eva" /> */}
-                Evaristus
+                Eva
               </a>
               <button
                 class="navbar-toggler"
