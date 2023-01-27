@@ -19,7 +19,7 @@ export default function About() {
                 me
               </h2>
               <p>
-                Whose given. Were gathered. There first subdue greater. Bearing
+                Whose given. Were gath greater. Bearing
                 you Whales heaven midst their. Beast creepeth. Fish days.
               </p>
               <p>
