@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import Script from "next/script";
+import About from "../components/About";
 import Banner from "../components/Banner";
 import Navbar from "../components/Navbar";
 import styles from "../styles/Home.module.css";
@@ -32,6 +33,7 @@ export default function Home() {
 
       <Navbar />
       <Banner />
+      <About />
 
       <Script src="js/jquery-3.2.1.min.js" />
       <Script src="js/popper.js"/>
