@@ -14,9 +14,9 @@ export default function About() {
           <div class="offset-lg-1 col-lg-5">
             <div class="main_title text-left">
               <h2>
-                let’s <br />
-                Introduce about <br />
-                myself
+                <br />
+                About <br />
+                me
               </h2>
               <p>
                 Whose given. Were gathered. There first subdue greater. Bearing
