@@ -4,6 +4,7 @@ import Script from "next/script";
 import About from "../components/About";
 import Banner from "../components/Banner";
 import Navbar from "../components/Navbar";
+import Services from "../components/Services";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
@@ -34,9 +35,9 @@ export default function Home() {
       <Navbar />
       <Banner />
       <About />
-
+      <Services />
       <Script src="js/jquery-3.2.1.min.js" />
-      <Script src="js/popper.js"/>
+      <Script src="js/popper.js" />
       <Script src="js/bootstrap.min.js" />
       {/* <Script src="js/stellar.js" />
       <Script src="js/jquery.magnific-popup.min.js" />
