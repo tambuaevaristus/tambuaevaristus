@@ -3,6 +3,7 @@ import Image from "next/image";
 import Script from "next/script";
 import About from "../components/About";
 import Banner from "../components/Banner";
+import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import Services from "../components/Services";
 import styles from "../styles/Home.module.css";
@@ -35,6 +36,7 @@ export default function Home() {
       <Navbar />
       <Banner />
       <About />
+      <Footer />
       <Services />
       <Script src="js/jquery-3.2.1.min.js" />
       <Script src="js/popper.js" />

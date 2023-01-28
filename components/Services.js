@@ -52,7 +52,7 @@ export default function Services() {
                 <img src="img/services/s4.png" alt="" />
                 <h4>Sound Engineering</h4>
                 <p>
-                  Creeping for female light years that lesser can't evening
+                  Creeping for female light years that lesser cant evening
                   heaven isnt bearing tree
                 </p>
               </div>
