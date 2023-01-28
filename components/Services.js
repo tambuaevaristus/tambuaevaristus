@@ -20,7 +20,7 @@ export default function Services() {
             <div class="col-lg-3 col-md-6">
               <div class="feature_item">
                 <img src="img/services/s1.png" alt="" />
-                <h4>Wp developing</h4>
+                <h4>Web <br/> Development</h4>
                 <p>
                   Creeping for female light years that lesser cant evening
                   heaven isnt bearing tree
@@ -30,7 +30,7 @@ export default function Services() {
             <div class="col-lg-3 col-md-6">
               <div class="feature_item">
                 <img src="img/services/s2.png" alt="" />
-                <h4>UI/ux design</h4>
+                <h4>Mobile App Development</h4>
                 <p>
                   Creeping for female light years that lesser cant evening
                   heaven isnt bearing tree
