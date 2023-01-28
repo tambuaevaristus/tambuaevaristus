@@ -19,13 +19,13 @@ export default function About() {
                 me
               </h2>
               <p>
-                Whose given. Were gath greater. Bearing
+                Whose given. Were gathered. There first subdue greater. Bearing
                 you Whales heaven midst their. Beast creepeth. Fish days.
               </p>
               <p>
                 Is give may shall likeness made yielding spirit a itself
-                together created after sea is ffffin beast beginning signs open god
-                you're gathering whose gathered cattle let. Creature whales
+                together created after sea is ffffin beast beginning signs open
+                god youre gathering whose gathered cattle let. Creature whales
                 fruit unto meat the life beginning all in under give two.
               </p>
               <a class="primary_btn" href="#">
