@@ -7,10 +7,11 @@ export default function Navbar() {
         <div class="main_men">
           <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container ">
-              <a class="navbar-brand logo_h" href="index.html">
-                {/* <img src="img/logo.png" alt="Eva" /> */}
-                Eva
+            <h1 className="text-bolder">
+            <a class="navbar-brand logo_h " href="index.html">
+                TE
               </a>
+            </h1>
               <button
                 class="navbar-toggler"
                 type="button"
