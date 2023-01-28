@@ -40,7 +40,7 @@ export default function Services() {
             <div class="col-lg-3 col-md-6">
               <div class="feature_item">
                 <img src="img/services/s3.png" alt="" />
-                <h4>Web design</h4>
+                <h4>Software Coach</h4>
                 <p>
                   Creeping for female light years that lesser cant evening
                   heaven isnt bearing tree
@@ -50,7 +50,7 @@ export default function Services() {
             <div class="col-lg-3 col-md-6">
               <div class="feature_item">
                 <img src="img/services/s4.png" alt="" />
-                <h4>seo optimize</h4>
+                <h4>Sound Engineering</h4>
                 <p>
                   Creeping for female light years that lesser can't evening
                   heaven isnt bearing tree
