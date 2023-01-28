@@ -19,14 +19,11 @@ export default function About() {
                 me
               </h2>
               <p>
-                Whose given. Were gathered. There first subdue greater. Bearing
-                you Whales heaven midst their. Beast creepeth. Fish days.
-              </p>
-              <p>
-                Is give may shall likeness made yielding spirit a itself
-                together created after sea is ffffin beast beginning signs open
-                god youre gathering whose gathered cattle let. Creature whales
-                fruit unto meat the life beginning all in under give two.
+                Hello, Everyone I am Tambua Evaristus. I am a professional web
+                and mobile developer. I have working experience in the following
+                - ReactJs, NextJs, React Native, TailwindCss , Bootstrap 5 for
+                Frontend and PHP Laravel, NodeJs, Firebase,Java SpringBoot for
+                Backend. Clients satisfaction is my highest priority.
               </p>
               <a class="primary_btn" href="#">
                 <span>Download CV</span>
