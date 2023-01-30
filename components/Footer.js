@@ -13,16 +13,7 @@ export default function Footer() {
               <h4>Follow Me</h4>
             </div>
             <div class="footer_social">
-              <a href="#">
-                <i class="fa fa-facebook"></i>
-              </a>
-              <a href="#">
-                <i class="fa fa-twitter"></i>
-              </a>
-              <a href="#">
-                <i class="fa fa-dribbble"></i>
-              </a>
-            
+          
             </div>
           </div>
         </div>
