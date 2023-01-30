@@ -22,9 +22,7 @@ export default function Footer() {
               <a href="#">
                 <i class="fa fa-dribbble"></i>
               </a>
-              <a href="#">
-                <i class="fa fa-behance"></i>
-              </a>
+            
             </div>
           </div>
         </div>
