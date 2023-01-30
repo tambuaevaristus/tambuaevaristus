@@ -13,7 +13,7 @@ export default function Footer() {
               <h4>Follow Me</h4>
             </div>
             <div class="footer_social">
-          
+          {/* Footer section */}
             </div>
           </div>
         </div>
