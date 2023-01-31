@@ -41,13 +41,7 @@ export default function Home() {
       <Script src="js/jquery-3.2.1.min.js" />
       <Script src="js/popper.js" />
       <Script src="js/bootstrap.min.js" />
-      {/* <Script src="js/stellar.js" />
-      <Script src="js/jquery.magnific-popup.min.js" />
-      <Script src="vendors/nice-select/js/jquery.nice-select.min.js" />
-      <Script src="vendors/isotope/imagesloaded.pkgd.min.js" />
-      <Script src="vendors/isotope/isotope-min.js" /> */}
-      {/* <Script src="vendors/owl-carousel/owl.carousel.min.js" /> */}
-      {/* <Script src="js/jquery.ajaxchimp.min.js" /> */}
+  
       <Script src="js/mail-Script.js" />
       <Script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE" />
       <Script src="js/gmaps.min.js" />
