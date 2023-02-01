@@ -32,7 +32,6 @@ export default function Home() {
         <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css" />
         <link rel="stylesheet" href="css/style.css"></link>
       </Head>
-{/* Goooming in progress */}
       <Navbar />
       <Banner />
       <About />
