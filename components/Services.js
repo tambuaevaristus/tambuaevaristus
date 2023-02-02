@@ -22,8 +22,7 @@ export default function Services() {
                 <img src="img/services/s1.png" alt="" />
                 <h4>Web <br/> Development</h4>
                 <p>
-                  Creeping for female light years that lesser cant evening
-                  heaven isnt bearing tree
+                  Build and maintain web sites and web applications with advanced technologies.
                 </p>
               </div>
             </div>
@@ -32,8 +31,7 @@ export default function Services() {
                 <img src="img/services/s2.png" alt="" />
                 <h4>Mobile App Development</h4>
                 <p>
-                  Creeping for female light years that lesser cant evening
-                  heaven isnt bearing tree
+                  Build mobile applications for both android and ios phones
                 </p>
               </div>
             </div>
@@ -42,8 +40,7 @@ export default function Services() {
                 <img src="img/services/s3.png" alt="" />
                 <h4>Software Coach</h4>
                 <p>
-                  Creeping for female light years that lesser cant evening
-                  heaven isnt bearing tree
+                  Skilled enough to coach and mentor growing developers to an intermediate stage in their carrier
                 </p>
               </div>
             </div>
@@ -52,8 +49,7 @@ export default function Services() {
                 <img src="img/services/s4.png" alt="" />
                 <h4>Sound Engineering</h4>
                 <p>
-                  Creeping for female light years that lesser cant evening
-                  heaven isnt bearing tree
+                  A proffesional sound engineer , can produce the best out of any sound equipment
                 </p>
               </div>
             </div>
