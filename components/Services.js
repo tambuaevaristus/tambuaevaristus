@@ -50,7 +50,7 @@ export default function Services() {
                 <img src="img/services/s4.png" alt="" />
                 <h4>Sound Engineering</h4>
                 <p>
-                  A proffesional sound engineer , can produce the best out of any sound equipment
+                  A proffesional sound engin, can produce the best out of any sound equipment
                 </p>
               </div>
             </div>
